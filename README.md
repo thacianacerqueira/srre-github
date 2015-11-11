@@ -19,3 +19,4 @@ Plataforma de colaboração construída em cima de um sistema de controle de ver
 
 # Projetos GitHub
 - [Explore](https://github.com/explore)
+- [Blog](https://github.com/blog/)
