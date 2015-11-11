@@ -2,7 +2,7 @@
 
 Plataforma de colaboração construída em cima de um sistema de controle de versão distribuído chamado Git.
 
-![GitHub Logo](/images/git.png)
+![Features](/git.png)
 
 
 # Contribuições
