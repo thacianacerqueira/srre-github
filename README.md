@@ -9,6 +9,8 @@ Plataforma de colaboração construída em cima de um sistema de controle de ver
 - Repositório *Fork*
 - Trabalhar de forma descentralizada
 - Criar *Pull Request*
+- Ajudar a encontrar novos projetos
+- Encontrar pessoas com interesses comuns
 
 # Links
 - [Git](www.git-scm.com)
