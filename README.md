@@ -4,18 +4,16 @@ Plataforma de colaboração construída em cima de um sistema de controle de ver
 
 ![Features](/git.png)
 
-
 # Contribuições
-Fork Repository
-Create feature branch
-Work on feature
-Render locally to ensure proper layout
-Submit a pull request
+- Criar recurso de *Branches*
+- Repositório *Fork*
+- Trabalhar de forma descentralizada
+- Criar *Pull Request*
 
 # Links
 - [Git](www.git-scm.com)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-# Encontrando Projetos
+# Projetos GitHub
 - [Explore](https://github.com/explore)
