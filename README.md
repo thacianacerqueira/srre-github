@@ -25,7 +25,7 @@ Plataforma de colaboração construída em cima de um sistema de controle de ver
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-# Projetos GitHub
+# Explore o GitHub
 - [Explore](https://github.com/explore)
 - [Blog](https://github.com/blog/)
 
