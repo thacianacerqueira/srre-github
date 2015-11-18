@@ -21,7 +21,6 @@ Plataforma de colaboração construída em cima de um sistema de controle de ver
 - Usuários também podem seguir uns aos outros para receber notificações. Isso permite aos usuários aprender mais sobre um projeto, encontrar novos projetos de seu interesse, promover seu próprio trabalho, seguir usuários populares ou influentes.
 
 # Links
-- [Git](www.git-scm.com)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
